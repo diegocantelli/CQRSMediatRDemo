@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZHPYmvaNJA4RBccmBtCv7pe554q41/nAUPHNoDG+d0ddwJCIVqbsnGv73kc79Eg/CT5PEIgoe4BDR9DFmEhuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
