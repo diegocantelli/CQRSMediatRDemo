@@ -1,0 +1,17 @@
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\bin\Debug\net6.0\CqrsMediatrDemo.Domain.deps.json
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\bin\Debug\net6.0\CqrsMediatrDemo.Domain.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\bin\Debug\net6.0\CqrsMediatrDemo.Domain.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\bin\Debug\net6.0\CqrsMediatrDemo.Data.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\bin\Debug\net6.0\CqrsMediatrDemo.Models.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\bin\Debug\net6.0\CqrsMediatrDemo.Data.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\bin\Debug\net6.0\CqrsMediatrDemo.Models.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\CqrsMediatrDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\CqrsMediatrDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\CqrsMediatrDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\CqrsMediatrDemo.Domain.AssemblyInfo.cs
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\CqrsMediatrDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\CqrsMediatrDemo.Domain.csproj.CopyComplete
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\CqrsMediatrDemo.Domain.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\refint\CqrsMediatrDemo.Domain.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\CqrsMediatrDemo.Domain.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Domain\obj\Debug\net6.0\ref\CqrsMediatrDemo.Domain.dll

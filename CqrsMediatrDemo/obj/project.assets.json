@@ -148,6 +148,21 @@
           "bin/placeholder/CqrsMediatrDemo.Data.dll": {}
         }
       },
+      "CqrsMediatrDemo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CqrsMediatrDemo.Data": "1.0.0",
+          "CqrsMediatrDemo.Models": "1.0.0",
+          "MediatR": "12.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CqrsMediatrDemo.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CqrsMediatrDemo.Domain.dll": {}
+        }
+      },
       "CqrsMediatrDemo.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -350,6 +365,11 @@
       "path": "../CqrsMediatrDemo.Data/CqrsMediatrDemo.Data.csproj",
       "msbuildProject": "../CqrsMediatrDemo.Data/CqrsMediatrDemo.Data.csproj"
     },
+    "CqrsMediatrDemo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CqrsMediatrDemo.Domain/CqrsMediatrDemo.Domain.csproj",
+      "msbuildProject": "../CqrsMediatrDemo.Domain/CqrsMediatrDemo.Domain.csproj"
+    },
     "CqrsMediatrDemo.Models/1.0.0": {
       "type": "project",
       "path": "../CqrsMediatrDemo.Models/CqrsMediatrDemo.Models.csproj",
@@ -359,6 +379,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "CqrsMediatrDemo.Data >= 1.0.0",
+      "CqrsMediatrDemo.Domain >= 1.0.0",
       "MediatR >= 12.0.1",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -404,6 +425,9 @@
           "projectReferences": {
             "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj": {
               "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj"
+            },
+            "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj": {
+              "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj"
             }
           }
         }

@@ -1,0 +1,15 @@
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\bin\Debug\net6.0\CqrsMediatrDemo.Data.deps.json
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\bin\Debug\net6.0\CqrsMediatrDemo.Data.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\bin\Debug\net6.0\CqrsMediatrDemo.Data.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\bin\Debug\net6.0\CqrsMediatrDemo.Models.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\bin\Debug\net6.0\CqrsMediatrDemo.Models.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\CqrsMediatrDemo.Data.csproj.AssemblyReference.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\CqrsMediatrDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\CqrsMediatrDemo.Data.AssemblyInfoInputs.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\CqrsMediatrDemo.Data.AssemblyInfo.cs
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\CqrsMediatrDemo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\CqrsMediatrDemo.Data.csproj.CopyComplete
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\CqrsMediatrDemo.Data.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\refint\CqrsMediatrDemo.Data.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\CqrsMediatrDemo.Data.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Data\obj\Debug\net6.0\ref\CqrsMediatrDemo.Data.dll

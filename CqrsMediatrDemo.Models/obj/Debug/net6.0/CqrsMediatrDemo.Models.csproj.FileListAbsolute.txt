@@ -1,0 +1,12 @@
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\bin\Debug\net6.0\CqrsMediatrDemo.Models.deps.json
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\bin\Debug\net6.0\CqrsMediatrDemo.Models.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\bin\Debug\net6.0\CqrsMediatrDemo.Models.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\CqrsMediatrDemo.Models.csproj.AssemblyReference.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\CqrsMediatrDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\CqrsMediatrDemo.Models.AssemblyInfoInputs.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\CqrsMediatrDemo.Models.AssemblyInfo.cs
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\CqrsMediatrDemo.Models.csproj.CoreCompileInputs.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\CqrsMediatrDemo.Models.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\refint\CqrsMediatrDemo.Models.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\CqrsMediatrDemo.Models.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Models\obj\Debug\net6.0\ref\CqrsMediatrDemo.Models.dll

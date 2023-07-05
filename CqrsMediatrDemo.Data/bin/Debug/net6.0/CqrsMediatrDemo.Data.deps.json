@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CqrsMediatrDemo.Data/1.0.0": {
+        "dependencies": {
+          "CqrsMediatrDemo.Models": "1.0.0"
+        },
+        "runtime": {
+          "CqrsMediatrDemo.Data.dll": {}
+        }
+      },
+      "CqrsMediatrDemo.Models/1.0.0": {
+        "runtime": {
+          "CqrsMediatrDemo.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CqrsMediatrDemo.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CqrsMediatrDemo.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
