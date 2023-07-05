@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsMediatrDemo", "CqrsMediatrDemo\CqrsMediatrDemo.csproj", "{E645FD9F-816A-40D0-9E4E-C2D15D6525E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsMediatrDemo", "CqrsMediatrDemo\CqrsMediatrDemo.csproj", "{E645FD9F-816A-40D0-9E4E-C2D15D6525E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsMediatrDemo.Domain", "CqrsMediatrDemo.Domain\CqrsMediatrDemo.Domain.csproj", "{C792F35C-EB8B-40B5-AFB5-73127FF859DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsMediatrDemo.Domain", "CqrsMediatrDemo.Domain\CqrsMediatrDemo.Domain.csproj", "{C792F35C-EB8B-40B5-AFB5-73127FF859DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsMediatrDemo.Data", "CqrsMediatrDemo.Data\CqrsMediatrDemo.Data.csproj", "{ABC5E314-129F-4938-A037-F31D31332851}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsMediatrDemo.Data", "CqrsMediatrDemo.Data\CqrsMediatrDemo.Data.csproj", "{ABC5E314-129F-4938-A037-F31D31332851}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsMediatrDemo.Models", "CqrsMediatrDemo.Models\CqrsMediatrDemo.Models.csproj", "{91D5E613-DFD1-41A8-922C-6C6067F8424A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsMediatrDemo.Application", "CqrsMediatrDemo.Application\CqrsMediatrDemo.Application.csproj", "{981DD68D-E385-43AE-82DD-791B7B8575A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{ABC5E314-129F-4938-A037-F31D31332851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABC5E314-129F-4938-A037-F31D31332851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABC5E314-129F-4938-A037-F31D31332851}.Release|Any CPU.Build.0 = Release|Any CPU
-		{91D5E613-DFD1-41A8-922C-6C6067F8424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91D5E613-DFD1-41A8-922C-6C6067F8424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91D5E613-DFD1-41A8-922C-6C6067F8424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91D5E613-DFD1-41A8-922C-6C6067F8424A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981DD68D-E385-43AE-82DD-791B7B8575A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981DD68D-E385-43AE-82DD-791B7B8575A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981DD68D-E385-43AE-82DD-791B7B8575A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981DD68D-E385-43AE-82DD-791B7B8575A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\bin\Debug\net6.0\CqrsMediatrDemo.Application.deps.json
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\bin\Debug\net6.0\CqrsMediatrDemo.Application.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\bin\Debug\net6.0\CqrsMediatrDemo.Application.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\bin\Debug\net6.0\CqrsMediatrDemo.Data.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\bin\Debug\net6.0\CqrsMediatrDemo.Domain.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\bin\Debug\net6.0\CqrsMediatrDemo.Data.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\bin\Debug\net6.0\CqrsMediatrDemo.Domain.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\CqrsMediatrDemo.Application.csproj.AssemblyReference.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\CqrsMediatrDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\CqrsMediatrDemo.Application.AssemblyInfoInputs.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\CqrsMediatrDemo.Application.AssemblyInfo.cs
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\CqrsMediatrDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\CqrsMediatrDemo.Application.csproj.CopyComplete
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\CqrsMediatrDemo.Application.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\refint\CqrsMediatrDemo.Application.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\CqrsMediatrDemo.Application.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo.Application\obj\Debug\net6.0\ref\CqrsMediatrDemo.Application.dll

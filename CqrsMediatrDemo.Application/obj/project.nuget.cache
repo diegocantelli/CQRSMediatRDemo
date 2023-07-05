@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z94/p5zfWbyQVWmmhe1KV8IGS09EIB9k2N77yNopOnYZEjA/Jz3EefdSx64hcrjefhNxDEyoHyxW6TQyrHhB7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Application\\CqrsMediatrDemo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prosoft\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Prosoft\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Prosoft\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

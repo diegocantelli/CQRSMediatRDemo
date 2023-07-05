@@ -135,11 +135,26 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "CqrsMediatrDemo.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CqrsMediatrDemo.Data": "1.0.0",
+          "CqrsMediatrDemo.Domain": "1.0.0",
+          "MediatR": "12.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CqrsMediatrDemo.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CqrsMediatrDemo.Application.dll": {}
+        }
+      },
       "CqrsMediatrDemo.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CqrsMediatrDemo.Models": "1.0.0"
+          "CqrsMediatrDemo.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/CqrsMediatrDemo.Data.dll": {}
@@ -151,26 +166,11 @@
       "CqrsMediatrDemo.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "CqrsMediatrDemo.Data": "1.0.0",
-          "CqrsMediatrDemo.Models": "1.0.0",
-          "MediatR": "12.0.1"
-        },
         "compile": {
           "bin/placeholder/CqrsMediatrDemo.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/CqrsMediatrDemo.Domain.dll": {}
-        }
-      },
-      "CqrsMediatrDemo.Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/CqrsMediatrDemo.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CqrsMediatrDemo.Models.dll": {}
         }
       }
     }
@@ -360,6 +360,11 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
+    "CqrsMediatrDemo.Application/1.0.0": {
+      "type": "project",
+      "path": "../CqrsMediatrDemo.Application/CqrsMediatrDemo.Application.csproj",
+      "msbuildProject": "../CqrsMediatrDemo.Application/CqrsMediatrDemo.Application.csproj"
+    },
     "CqrsMediatrDemo.Data/1.0.0": {
       "type": "project",
       "path": "../CqrsMediatrDemo.Data/CqrsMediatrDemo.Data.csproj",
@@ -369,15 +374,11 @@
       "type": "project",
       "path": "../CqrsMediatrDemo.Domain/CqrsMediatrDemo.Domain.csproj",
       "msbuildProject": "../CqrsMediatrDemo.Domain/CqrsMediatrDemo.Domain.csproj"
-    },
-    "CqrsMediatrDemo.Models/1.0.0": {
-      "type": "project",
-      "path": "../CqrsMediatrDemo.Models/CqrsMediatrDemo.Models.csproj",
-      "msbuildProject": "../CqrsMediatrDemo.Models/CqrsMediatrDemo.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CqrsMediatrDemo.Application >= 1.0.0",
       "CqrsMediatrDemo.Data >= 1.0.0",
       "CqrsMediatrDemo.Domain >= 1.0.0",
       "MediatR >= 12.0.1",
@@ -423,6 +424,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Application\\CqrsMediatrDemo.Application.csproj": {
+              "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Application\\CqrsMediatrDemo.Application.csproj"
+            },
             "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj": {
               "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj"
             },

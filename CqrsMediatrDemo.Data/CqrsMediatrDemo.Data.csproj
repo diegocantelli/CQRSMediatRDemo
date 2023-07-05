@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CqrsMediatrDemo.Models\CqrsMediatrDemo.Models.csproj" />
+    <ProjectReference Include="..\CqrsMediatrDemo.Domain\CqrsMediatrDemo.Domain.csproj" />
   </ItemGroup>
 
 </Project>

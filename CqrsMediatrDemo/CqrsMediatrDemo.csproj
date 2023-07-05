@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CqrsMediatrDemo.Application\CqrsMediatrDemo.Application.csproj" />
     <ProjectReference Include="..\CqrsMediatrDemo.Data\CqrsMediatrDemo.Data.csproj" />
     <ProjectReference Include="..\CqrsMediatrDemo.Domain\CqrsMediatrDemo.Domain.csproj" />
   </ItemGroup>

@@ -1,8 +1,7 @@
-﻿using CqrsMediatrDemo.Domain.Commands.Products;
-using CqrsMediatrDemo.Domain.Queries.Products;
-using CqrsMediatrDemo.Models;
+﻿using CqrsMediatrDemo.Application.Commands.Products;
+using CqrsMediatrDemo.Application.Queries.Products;
+using CqrsMediatrDemo.Domain;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CqrsMediatrDemo.Controllers

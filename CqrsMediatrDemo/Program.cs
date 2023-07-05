@@ -1,12 +1,12 @@
+using CqrsMediatrDemo.Application.Handlers.Products;
 using CqrsMediatrDemo.Data;
-using CqrsMediatrDemo.Domain.Handlers.Products;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddMediatR(cfg => 
     cfg.RegisterServicesFromAssemblies(
-        typeof(GetAllProductsHandler).Assembly,
+        typeof(GetAllProductsQueryHandler).Assembly,
         typeof(Program).Assembly));
 
 builder.Services.AddSingleton<FakeDataStore>();

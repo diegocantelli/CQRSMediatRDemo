@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Application\\CqrsMediatrDemo.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Application\\CqrsMediatrDemo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Application\\CqrsMediatrDemo.Application.csproj",
+        "projectName": "CqrsMediatrDemo.Application",
+        "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Application\\CqrsMediatrDemo.Application.csproj",
+        "packagesPath": "C:\\Users\\Prosoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Prosoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfscloud.prosoft.com.br/tfs/Wolters_Kluwer_Prosoft/_packaging/NugetServer/nuget/v3/index.json": {},
+          "https://tfscloud.prosoft.com.br/tfs/Wolters_Kluwer_Prosoft/_packaging/PortalNuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj": {
+                "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj"
+              },
+              "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj",
+        "projectName": "CqrsMediatrDemo.Data",
+        "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\CqrsMediatrDemo.Data.csproj",
+        "packagesPath": "C:\\Users\\Prosoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Prosoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfscloud.prosoft.com.br/tfs/Wolters_Kluwer_Prosoft/_packaging/NugetServer/nuget/v3/index.json": {},
+          "https://tfscloud.prosoft.com.br/tfs/Wolters_Kluwer_Prosoft/_packaging/PortalNuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj",
+        "projectName": "CqrsMediatrDemo.Domain",
+        "projectPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\CqrsMediatrDemo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Prosoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Prosoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfscloud.prosoft.com.br/tfs/Wolters_Kluwer_Prosoft/_packaging/NugetServer/nuget/v3/index.json": {},
+          "https://tfscloud.prosoft.com.br/tfs/Wolters_Kluwer_Prosoft/_packaging/PortalNuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

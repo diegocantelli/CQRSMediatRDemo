@@ -6,13 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="MediatR" Version="12.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\CqrsMediatrDemo.Data\CqrsMediatrDemo.Data.csproj" />
-    <ProjectReference Include="..\CqrsMediatrDemo.Models\CqrsMediatrDemo.Models.csproj" />
-  </ItemGroup>
-
 </Project>
