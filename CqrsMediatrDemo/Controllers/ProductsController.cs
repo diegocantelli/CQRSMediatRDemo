@@ -18,10 +18,16 @@ namespace CqrsMediatrDemo.Controllers
             _mediator = mediator;
         }
 
-        [HttpGet]
+        [HttpGet(nameof(GetAll))]
         public async Task<IActionResult> GetAll()
         {
             return Ok(await _mediator.Send(new GetAllProductsQuery()));
+        }
+
+        [HttpGet(nameof(GetById))]
+        public async Task<IActionResult> GetById(int id)
+        {
+            return Ok(await _mediator.Send(new GetProductByIdQuery(id)));
         }
 
         [HttpPost]

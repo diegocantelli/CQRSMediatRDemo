@@ -30,5 +30,10 @@ namespace CqrsMediatrDemo.Data
         {
             _products.Add(product);
         }
+
+        public Product GetById(int id)
+        {
+            return _products.FirstOrDefault(x => x.Id == id);
+        }
     }
 }
