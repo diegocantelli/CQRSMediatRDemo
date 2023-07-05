@@ -26,7 +26,7 @@ namespace CqrsMediatrDemo.Data
             return _products;
         }
 
-        public void AddAsync(Product product)
+        public void Add(Product product)
         {
             _products.Add(product);
         }

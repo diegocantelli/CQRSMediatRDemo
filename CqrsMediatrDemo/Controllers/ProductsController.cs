@@ -1,4 +1,5 @@
-﻿using CqrsMediatrDemo.Domain.Queries.Products;
+﻿using CqrsMediatrDemo.Domain.Commands.Products;
+using CqrsMediatrDemo.Domain.Queries.Products;
 using CqrsMediatrDemo.Models;
 using MediatR;
 using Microsoft.AspNetCore.Http;
@@ -21,6 +22,13 @@ namespace CqrsMediatrDemo.Controllers
         public async Task<IActionResult> GetAll()
         {
             return Ok(await _mediator.Send(new GetAllProductsQuery()));
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Post([FromBody]Product product)
+        {
+            await _mediator.Send(new AddProductCommand(product));
+            return Ok(StatusCodes.Status201Created);
         }
     }
 }
