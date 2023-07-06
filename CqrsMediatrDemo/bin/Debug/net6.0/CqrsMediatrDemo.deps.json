@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "CqrsMediatrDemo/1.0.0": {
         "dependencies": {
+          "CqrsMediatrDemo.Application": "1.0.0",
           "CqrsMediatrDemo.Data": "1.0.0",
           "CqrsMediatrDemo.Domain": "1.0.0",
           "MediatR": "12.0.1",
@@ -93,27 +94,27 @@
           }
         }
       },
+      "CqrsMediatrDemo.Application/1.0.0": {
+        "dependencies": {
+          "CqrsMediatrDemo.Data": "1.0.0",
+          "CqrsMediatrDemo.Domain": "1.0.0",
+          "MediatR": "12.0.1"
+        },
+        "runtime": {
+          "CqrsMediatrDemo.Application.dll": {}
+        }
+      },
       "CqrsMediatrDemo.Data/1.0.0": {
         "dependencies": {
-          "CqrsMediatrDemo.Models": "1.0.0"
+          "CqrsMediatrDemo.Domain": "1.0.0"
         },
         "runtime": {
           "CqrsMediatrDemo.Data.dll": {}
         }
       },
       "CqrsMediatrDemo.Domain/1.0.0": {
-        "dependencies": {
-          "CqrsMediatrDemo.Data": "1.0.0",
-          "CqrsMediatrDemo.Models": "1.0.0",
-          "MediatR": "12.0.1"
-        },
         "runtime": {
           "CqrsMediatrDemo.Domain.dll": {}
-        }
-      },
-      "CqrsMediatrDemo.Models/1.0.0": {
-        "runtime": {
-          "CqrsMediatrDemo.Models.dll": {}
         }
       }
     }
@@ -187,17 +188,17 @@
       "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
     },
+    "CqrsMediatrDemo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CqrsMediatrDemo.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CqrsMediatrDemo.Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "CqrsMediatrDemo.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,5 @@
 ﻿using CqrsMediatrDemo.Application.Commands.Products;
+using CqrsMediatrDemo.Application.Notifications.Products;
 using CqrsMediatrDemo.Application.Queries.Products;
 using CqrsMediatrDemo.Domain;
 using MediatR;
@@ -23,7 +24,7 @@ namespace CqrsMediatrDemo.Controllers
             return Ok(await _mediator.Send(new GetAllProductsQuery()));
         }
 
-        [HttpGet(nameof(GetById))]
+        [HttpGet("{id:int}", Name = nameof(GetById))]
         public async Task<IActionResult> GetById(int id)
         {
             return Ok(await _mediator.Send(new GetProductByIdQuery(id)));
@@ -32,8 +33,10 @@ namespace CqrsMediatrDemo.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody]Product product)
         {
-            await _mediator.Send(new AddProductCommand(product));
-            return Ok(StatusCodes.Status201Created);
+            var productToReturn = await _mediator.Send(new AddProductCommand(product));
+            await _mediator.Publish(new ProductAddedNotification(product));
+
+            return CreatedAtRoute(nameof(GetById), new { id = productToReturn.Id }, productToReturn);
         }
     }
 }

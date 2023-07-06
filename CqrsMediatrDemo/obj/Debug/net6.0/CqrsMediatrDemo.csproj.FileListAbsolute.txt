@@ -14,10 +14,8 @@ C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\S
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Data.dll
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Domain.dll
-C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Models.dll
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Data.pdb
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Domain.pdb
-C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Models.pdb
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\CqrsMediatrDemo.csproj.AssemblyReference.cache
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\CqrsMediatrDemo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\CqrsMediatrDemo.AssemblyInfoInputs.cache
@@ -34,3 +32,5 @@ C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\r
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\CqrsMediatrDemo.pdb
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\CqrsMediatrDemo.genruntimeconfig.cache
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\ref\CqrsMediatrDemo.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Application.dll
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Application.pdb
