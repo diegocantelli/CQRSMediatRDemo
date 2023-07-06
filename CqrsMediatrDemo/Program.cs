@@ -1,5 +1,7 @@
+using CqrsMediatrDemo.Application.Behaviors;
 using CqrsMediatrDemo.Application.Handlers.Products;
 using CqrsMediatrDemo.Data;
+using MediatR;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,7 @@ builder.Services.AddMediatR(cfg =>
         typeof(Program).Assembly));
 
 builder.Services.AddSingleton<FakeDataStore>();
+builder.Services.AddSingleton(typeof(IPipelineBehavior<,>), typeof(LoggingBehavior<,>));
 builder.Services.AddControllers();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

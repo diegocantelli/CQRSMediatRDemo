@@ -34,3 +34,4 @@ C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\C
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\obj\Debug\net6.0\ref\CqrsMediatrDemo.dll
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Application.dll
 C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\CqrsMediatrDemo.Application.pdb
+C:\Users\Prosoft\source\repos\CqrsMediatrDemo\CqrsMediatrDemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll

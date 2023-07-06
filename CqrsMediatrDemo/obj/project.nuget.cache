@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qGFysbun9BHzq0ptAFzgkR2pvaQtkBHYCtr/m3CsbNncSAiBEkIkcqUMMKaxm+dy8xSS4b0q1/nDX4iDBgE5/g==",
+  "dgSpecHash": "iRdsvyarKmKr3nWd3o8vcFFzs/xmHoGsLQxV2ygCbY8L14vxfiJkybBtRZY2vHW5i0HmBJzL9/D99pWRYhFx5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Prosoft\\source\\repos\\CqrsMediatrDemo\\CqrsMediatrDemo\\CqrsMediatrDemo.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Prosoft\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Prosoft\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Prosoft\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Prosoft\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
     "C:\\Users\\Prosoft\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Prosoft\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Prosoft\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
