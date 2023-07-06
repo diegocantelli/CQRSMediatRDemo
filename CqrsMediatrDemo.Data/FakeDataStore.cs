@@ -30,5 +30,10 @@ namespace CqrsMediatrDemo.Data
         {
             return _products.FirstOrDefault(x => x.Id == id);
         }
+
+        public void EventOccured(Product product, string evt)
+        {
+            _products.Single(x => x.Id == product.Id).Name = $"{product.Name} evt: {evt}";
+        }
     }
 }
